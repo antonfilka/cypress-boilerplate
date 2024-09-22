@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "title": "Understanding JavaScript Closures",
+    "body": "Closures are a fundamental concept in JavaScript"
+  },
+  {
+    "id": 2,
+    "title": "A Guide to Responsive Web Design",
+    "body": "Responsive web design ensures that your website looks good on all devices"
+  },
+  {
+    "id": 3,
+    "title": "Best Practices for Writing Clean Code",
+    "body": "Writing clean and maintainable code is essential for long-term project success"
+  },
+  {
+    "id": 4,
+    "title": "Introduction to TypeScript for JavaScript Developers",
+    "body": "TypeScript is a strongly typed superset of JavaScript that adds static types to your code"
+  },
+  {
+    "id": 5,
+    "title": "Exploring React Hooks: useState and useEffect",
+    "body": "React hooks allow you to use state and other React features in function components"
+  }
+]

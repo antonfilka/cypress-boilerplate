@@ -81,7 +81,7 @@ const EditPost: React.FC = () => {
       );
       console.log("Post request successful:", response.data);
       alert("Entity updated successfully!");
-      navigate("/list");
+      navigate("/posts");
     } catch (error) {
       console.error("Error posting data:", error);
     }
